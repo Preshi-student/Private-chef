@@ -24,6 +24,10 @@ App screenshots:
 
 <img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/5338e024-0436-420a-ab52-6d5836e7c2cc" />
 
+My github link can be found here:
+
+https://github.com/Preshi-student/Private-chef.git
+
 
 Like part 1 and part 2, the languages used here were React Native and Typescript.  Whereby React Native was used for the main framework for cross-platform mobile development which can 
 be compatible across multiple devices. 
